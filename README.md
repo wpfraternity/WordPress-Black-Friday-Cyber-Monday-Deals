@@ -1,2 +1,29 @@
-# WordPress-Black-Friday-Cyber-Monday-Deals
+# WordPress Black Friday & Cyber Monday Deals 2025
 A curated list of the best WordPress Black Friday &amp; Cyber Monday deals. Including plugins, themes, hosting, services, and tools. Updated daily during BFCM.
+Hosting, Panels, & Domains
+| #  | Brand                               | Description                                                 | Coupon              | Validity              | Discount                             | Details                |
+| -- | ----------------------------------- | ----------------------------------------------------------- | ------------------- | --------------------- | ------------------------------------ | ---------------------- |
+| 1  | **[Cloudways](#)**                  | Simple, scalable managed hosting with AI-powered server.    | None                | Starts Nov 10, 2025   | **50% OFF for 3 Months**             | [View More Details](#) |
+| 2  | **[HostPapa](#)**                   | Beginner-friendly to high-performance web hosting.          | **ABFCM25**         | Nov 10 – Dec 16, 2025 | **Up to 89% OFF**, from $1.45/mo     | [View More Details](#) |
+| 3  | **[InMotion Hosting](#)**           | Save 50% on yearly Platform InMotion plan.                  | None                | Nov XX – Nov XX, 2025 | TBA                                  | [View More Details](#) |
+| 4  | **[Kinsta](#)**                     | Premium managed WordPress hosting with enterprise features. | None                | Nov 17 – Dec 02, 2025 | **50% OFF**                          | [View More Details](#) |
+| 5  | **[Hostinger](#)**                  | Affordable WordPress hosting with fast performance.         | None                | Nov 17 – Nov 30, 2025 | **85% OFF**                          | [View More Details](#) |
+| 6  | **[Rocket.net](#)**                 | Ultra-fast hosting for WordPress & WooCommerce.             | None                | Nov XX – Nov XX, 2025 | TBA                                  | [View More Details](#) |
+| 7  | **[WordPress.com](#)**              | Their design team builds your website for free.             | None                | Nov 17 – Dec 01, 2025 | **10% OFF Business Plan**            | [View More Details](#) |
+| 8  | **[Hosting.com](#)**                | Premium hosting for high-performing sites.                  | —                   | Nov 03 – Dec 01, 2025 | **$1 First Month or 6 Months Free**  | [View More Details](#) |
+| 9  | **[xCloud](#)**                     | Hosting + server management for WordPress.                  | None                | Nov 16 – Dec 04, 2025 | **Lifetime Offer**                   | [View More Details](#) |
+| 10 | **[Bluehost](#)**                   | Leading WordPress hosting provider.                         | None                | Nov XX – Nov XX, 2025 | TBA                                  | [View More Details](#) |
+| 11 | **[Convesio](#)**                   | Hosting + automation powered by Convert.                    | None                | Nov XX – Nov XX, 2025 | TBA                                  | [View More Details](#) |
+| 12 | **[Pressidium](#)**                 | High-performance managed WordPress hosting.                 | None                | Nov XX – Nov XX, 2025 | TBA                                  | [View More Details](#) |
+| 13 | **[HostWP.io](#)**                  | Fast, secure & reliable WordPress hosting.                  | **BFCM40**          | Nov 01 – Dec 08, 2025 | **40% OFF**                          | [View More Details](#) |
+| 14 | **[Indystack](#)**                  | Affordable managed cloud hosting for WordPress.             | None                | Nov XX – Nov XX, 2025 | TBA                                  | [View More Details](#) |
+| 15 | **[Devrims](#)**                    | Managed cloud hosting for WooCommerce & Magento.            | None                | Nov XX – Nov XX, 2025 | TBA                                  | [View More Details](#) |
+| 16 | **[Stellar Sites](#)**              | Hosting + access to Stellar products & plugins.             | —                   | Nov 24 – Dec 02, 2025 | **30% OFF Monthly / 50% OFF Annual** | [View More Details](#) |
+| 17 | **[WeWP Managed Hosting](#)**       | Optimized cloud hosting for WordPress.                      | None                | Nov XX – Nov XX, 2025 | TBA                                  | [View More Details](#) |
+| 18 | **[JetNode](#)**                    | Ultra-fast hosting for WordPress & WooCommerce.             | **WPWEEKLY**        | Nov 28 – Nov 30, 2025 | **50% OFF**                          | [View More Details](#) |
+| 19 | **[Webhost UK LTD](#)**             | UK-based hosting solutions.                                 | None                | Nov XX – Nov XX, 2025 | TBA                                  | [View More Details](#) |
+| 20 | **[eWallHost Linux Hosting](#)**    | Linux hosting with great performance.                       | None                | Nov XX – Nov XX, 2025 | TBA                                  | [View More Details](#) |
+| 21 | **[AtlasFlare Managed Hosting](#)** | Dedicated managed hosting for WordPress.                    | **BLACKFRIDAY2025** | Nov 01 – Nov 30, 2025 | **10% OFF Forever**                  | [View More Details](#) |
+| 22 | **[Namecheap](#)**                  | Popular domain registrar with fixed pricing.                | None                | Nov XX – Nov XX, 2025 | TBA                                  | [View More Details](#) |
+| 23 | **[Simplenet](#)**                  | Premium managed WordPress hosting & support.                | None                | Nov XX – Nov XX, 2025 | TBA                                  | [View More Details](#) |
+| 24 | **[FlyWP](#)**                      | *(No details provided)*                                     | —                   | —                     | —                                    | —                      |
