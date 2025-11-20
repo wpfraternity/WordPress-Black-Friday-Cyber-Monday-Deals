@@ -3,7 +3,7 @@ A curated list of the best WordPress Black Friday &amp; Cyber Monday deals. Incl
 Hosting, Panels, & Domains
 | #  | Brand                               | Description                                                 | Coupon              | Validity              | Discount                             | Details                |
 | -- | ----------------------------------- | ----------------------------------------------------------- | ------------------- | --------------------- | ------------------------------------ | ---------------------- |
-| 1  | **[Cloudways](#)**                  | Simple, scalable managed hosting with AI-powered server.    | None                | Starts Nov 10, 2025   | **50% OFF for 3 Months**             | [View More Details](#) |
+| 1  | **[Cloudways](https://www.cloudways.com/en/pricing.php)**                  | Simple, scalable managed hosting with AI-powered server.    | None                | Starts Nov 10, 2025   | **50% OFF for 3 Months**             | [View More Details](#) |
 | 2  | **[HostPapa](#)**                   | Beginner-friendly to high-performance web hosting.          | **ABFCM25**         | Nov 10 – Dec 16, 2025 | **Up to 89% OFF**, from $1.45/mo     | [View More Details](#) |
 | 3  | **[InMotion Hosting](#)**           | Save 50% on yearly Platform InMotion plan.                  | None                | Nov XX – Nov XX, 2025 | TBA                                  | [View More Details](#) |
 | 4  | **[Kinsta](#)**                     | Premium managed WordPress hosting with enterprise features. | None                | Nov 17 – Dec 02, 2025 | **50% OFF**                          | [View More Details](#) |
